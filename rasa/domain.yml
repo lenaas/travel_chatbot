@@ -8,10 +8,12 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - travel_guide
+  - inform
 
 responses:
   utter_greet:
-  - text: "Hey! How are you?"
+  - text: "Hey! I am your friendly travel guide. I can help you find the perfect destination for your next trip."
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"
@@ -28,6 +30,112 @@ responses:
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+  utter_ask_question_1:
+  - text: "Alright, let's start with your Travel Consultation. Price Question."
+    buttons: 
+    - title: "Cheap"
+      payload: '/inform{{"question_1":"Cheap"}}'
+    - title: "Expensive"
+      payload: '/inform{{"question_1":"Expensive"}}'
+
+  utter_ask_question_2:
+  - text: "Okay, i got that. Lets continue with Activity Question."
+    buttons: 
+    - title: "Active"
+      payload: '/inform{{"question_2":"Active"}}'
+    - title: "Chill"
+      payload: '/inform{{"question_2":"Chill"}}'
+  
+  utter_ask_question_3:
+  - text: "Okay, i got that. Lets continue with Climate Question."
+    buttons: 
+    - title: "Sunny and warm"
+      payload: '/inform{{"question_3":"Sunny"}}'
+    - title: "Colder climate"
+      payload: '/inform{{"question_3":"Cold"}}'
+
+  utter_ask_question_4:
+  - text: "Okay, i got that. Lets continue with Interest Question."
+    buttons: 
+    - title: "History"
+      payload: '/inform{{"question_4":"History"}}'
+    - title: "Nature"
+      payload: '/inform{{"question_4":"Nature"}}'
+    - title: "Party"
+      payload: '/inform{{"question_4":"Party"}}'
+
+  utter_ask_question_5:
+  - text: "Okay, i got that. Lets continue with Duration Question."
+    buttons: 
+    - title: "short (> 1 week)"
+      payload: '/inform{{"question_5":"short"}}'
+    - title: "intermediate (1-2 weeks))"
+      payload: '/inform{{"question_5":"intermediate"}}'
+    - title: "long (> 2 weeks)"
+      payload: '/inform{{"question_5":"long"}}'
+  
+  utter_ask_use_GPT:
+  - text: "Thanks for your input. I will now look for the best travel destination for you.\n Should i use my internal database or should I consult GPT-3 for this?"
+    buttons: 
+    - title: "Use GPT"
+      payload: '/inform{{"use_GPT":"Yes"}}'
+    - title: "Use internal database"
+      payload: '/inform{{"use_GPT":"No"}}'
+
+actions:
+- action_get_destinations
+- action_reset_slots
+
+slots:
+  question_1:
+    type: any
+    mappings:
+      - type: from_entity
+        entity: question_1
+  question_2:
+    type: any
+    mappings:
+      - type: from_entity
+        entity: question_2
+  question_3:
+    type: any
+    mappings:
+      - type: from_entity
+        entity: question_3
+  question_4:
+    type: any
+    mappings:
+      - type: from_entity
+        entity: question_4
+  question_5:
+    type: any
+    mappings:
+      - type: from_entity
+        entity: question_5
+  use_GPT:
+    type: any
+    mappings:
+      - type: from_entity
+        entity: use_GPT
+
+entities:
+  - question_1
+  - question_2
+  - question_3
+  - question_4
+  - question_5
+  - use_GPT
+
+forms:
+  travel-guide:
+    required_slots:
+      - question_1
+      - question_2
+      - question_3
+      - question_4
+      - question_5
+      - use_GPT
 
 session_config:
   session_expiration_time: 60

@@ -11,3 +11,20 @@ rules:
   steps:
   - intent: bot_challenge
   - action: utter_iamabot
+
+- rule: Activate form
+  steps:
+  - intent: travel_guide
+  - action: travel-guide
+  - active_loop: travel-guide
+
+- rule: Submit form
+  condition:
+  - active_loop: travel-guide
+  steps:
+  - action: travel-guide
+  - active_loop: null
+  - slot_was_set:
+    - requested_slot: null
+  - action: action_get_destinations
+  - action: action_reset_slots

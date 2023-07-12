@@ -89,3 +89,18 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: travel_guide
+  examples: |
+    - Can you help me with my travel plans?
+    - I need help with my travel plans
+    - What are great destinations to visit?
+    - What are the best places to visit?
+    - What are the best places to visit in the world?
+    - I need a travel guide
+    - I need travel consultation
+    - Travel Guidance
+    - Travel guide
+    - Travel consultation
+
+- intent: inform
