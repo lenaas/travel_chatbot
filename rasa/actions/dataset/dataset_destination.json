@@ -1,0 +1,4399 @@
+{
+    "Reiseziel": {
+        "0": "Adriatic coast, Italy",
+        "1": "Algarve, Portugal",
+        "2": "Amalfi Coast, Italy",
+        "3": "Amsterdam, Netherlands",
+        "4": "Andalusia, Spain",
+        "5": "Bali, Indonesia",
+        "6": "Baltic Sea, Germany",
+        "7": "Bangkok, Thailand",
+        "8": "Barcelona, Spain",
+        "9": "Bolzano, Italy",
+        "10": "Brittany, France",
+        "11": "Budva, Montenegro",
+        "12": "Cape Region, South Africa",
+        "13": "Copenhagen, Denmark",
+        "14": "Dubai, United Arab Emirates",
+        "15": "Dublin, Ireland",
+        "16": "Great Barrier Reef, Australia",
+        "17": "Hanoi, Vietnam",
+        "18": "Hurghada, Egypt",
+        "19": "Istanbul, Turkey",
+        "20": "Istria, Croatia",
+        "21": "Kalambaka, Greece",
+        "22": "Krabi, Thailand",
+        "23": "Krakow, Poland",
+        "24": "Kyoto, Japan",
+        "25": "Lake Garda, Italy",
+        "26": "Lisbon, Portugal",
+        "27": "London, United Kingdom",
+        "28": "Majorca, Spain",
+        "29": "Marrakech, Morocco",
+        "30": "New York City, USA",
+        "31": "North Sea, Germany",
+        "32": "Olomouc, Czech Republic",
+        "33": "Oslo, Norway",
+        "34": "Paris, France",
+        "35": "Patagonia, Argentina and Chile",
+        "36": "Phuket, Thailand",
+        "37": "Prague, Czech Republic",
+        "38": "Provence, France",
+        "39": "Rajasthan, India",
+        "40": "Reykjav\u00edk, Iceland",
+        "41": "Rio de Janeiro, Brazil",
+        "42": "Rome, Italy",
+        "43": "San Francisco, USA",
+        "44": "Santa Fe, USA",
+        "45": "Santiago de Quer\u00e9taro, Mexico",
+        "46": "Sardinia, Italy",
+        "47": "Scottish Highlands, United Kingdom",
+        "48": "Seoul, South Korea",
+        "49": "Serengeti, Tanzania",
+        "50": "Singapore City, Singapore",
+        "51": "Stockholm, Sweden",
+        "52": "Swiss Alps, Switzerland",
+        "53": "Sydney, Australia",
+        "54": "S\u00e3o Paulo, Brazil",
+        "55": "Tokyo, Japan",
+        "56": "Toronto, Canada",
+        "57": "Tuscany, Italy",
+        "58": "Vancouver, Canada",
+        "59": "Vienna, Austria",
+        "60": "Wellington, New Zealand",
+        "61": "Whitsunday Islands, Australia",
+        "62": "Zurich, Switzerland"
+    },
+    "Klima und Regenwahrscheinlichkeit": {
+        "0": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Apr": {
+                "Klima": "mild",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Okt": {
+                "Klima": "mild",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "1": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "mild",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "mild",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Okt": {
+                "Klima": "mild",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "2": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "3": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            }
+        },
+        "4": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "5": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.7
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.7
+            }
+        },
+        "6": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "7": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.7
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.7
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.7
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.7
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "8": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "9": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "10": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "11": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "12": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            }
+        },
+        "13": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            }
+        },
+        "14": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            }
+        },
+        "15": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            }
+        },
+        "16": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            }
+        },
+        "17": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.7
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.7
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.7
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.7
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "18": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            }
+        },
+        "19": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "20": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "21": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            }
+        },
+        "22": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.7
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.7
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "23": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "24": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "25": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "26": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "27": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            }
+        },
+        "28": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "29": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "30": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "31": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "32": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "33": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            }
+        },
+        "34": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            }
+        },
+        "35": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "36": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            }
+        },
+        "37": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "38": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "39": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.1
+            }
+        },
+        "40": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "41": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "42": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "43": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "44": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.7
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.7
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "45": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.1
+            }
+        },
+        "46": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "47": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            }
+        },
+        "48": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "49": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "50": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            }
+        },
+        "51": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            }
+        },
+        "52": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "53": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "54": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.1
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "55": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "56": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            }
+        },
+        "57": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "58": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            }
+        },
+        "59": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "60": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.4
+            }
+        },
+        "61": {
+            "Jan": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Feb": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "M\u00e4r": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Apr": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Mai": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jun": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.2
+            },
+            "Nov": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Dez": {
+                "Klima": "warm",
+                "Regenwahrscheinlichkeit": 0.3
+            }
+        },
+        "62": {
+            "Jan": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Feb": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "M\u00e4r": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Apr": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Mai": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.5
+            },
+            "Jun": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Jul": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Aug": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.3
+            },
+            "Sep": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.4
+            },
+            "Okt": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Nov": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            },
+            "Dez": {
+                "Klima": "kalt",
+                "Regenwahrscheinlichkeit": 0.6
+            }
+        }
+    },
+    "Reiseart": {
+        "0": [
+            "Strandurlaub",
+            "Rundreise"
+        ],
+        "1": [
+            "Strandurlaub"
+        ],
+        "2": [
+            "Strandurlaub",
+            "Rundreise"
+        ],
+        "3": [
+            "St\u00e4dtereise"
+        ],
+        "4": [
+            "Strandurlaub",
+            "Rundreise",
+            "St\u00e4dtereise"
+        ],
+        "5": [
+            "Strandurlaub"
+        ],
+        "6": [
+            "Strandurlaub",
+            "Rundreise"
+        ],
+        "7": [
+            "St\u00e4dtereise"
+        ],
+        "8": [
+            "St\u00e4dtereise"
+        ],
+        "9": [
+            "St\u00e4dtereise"
+        ],
+        "10": [
+            "Strandurlaub",
+            "Rundreise"
+        ],
+        "11": [
+            "Strandurlaub"
+        ],
+        "12": [
+            "Strandurlaub",
+            "Rundreise"
+        ],
+        "13": [
+            "St\u00e4dtereise"
+        ],
+        "14": [
+            "St\u00e4dtereise",
+            "Strandurlaub"
+        ],
+        "15": [
+            "St\u00e4dtereise"
+        ],
+        "16": [
+            "Strandurlaub"
+        ],
+        "17": [
+            "St\u00e4dtereise"
+        ],
+        "18": [
+            "Strandurlaub"
+        ],
+        "19": [
+            "St\u00e4dtereise"
+        ],
+        "20": [
+            "Strandurlaub"
+        ],
+        "21": [
+            "St\u00e4dtereise"
+        ],
+        "22": [
+            "Strandurlaub"
+        ],
+        "23": [
+            "St\u00e4dtereise"
+        ],
+        "24": [
+            "St\u00e4dtereise"
+        ],
+        "25": [
+            "Strandurlaub",
+            "Rundreise"
+        ],
+        "26": [
+            "St\u00e4dtereise"
+        ],
+        "27": [
+            "St\u00e4dtereise"
+        ],
+        "28": [
+            "Strandurlaub"
+        ],
+        "29": [
+            "St\u00e4dtereise",
+            "Strandurlaub"
+        ],
+        "30": [
+            "St\u00e4dtereise"
+        ],
+        "31": [
+            "Strandurlaub"
+        ],
+        "32": [
+            "St\u00e4dtereise"
+        ],
+        "33": [
+            "St\u00e4dtereise"
+        ],
+        "34": [
+            "St\u00e4dtereise"
+        ],
+        "35": [
+            "Rundreise"
+        ],
+        "36": [
+            "Strandurlaub"
+        ],
+        "37": [
+            "St\u00e4dtereise"
+        ],
+        "38": [
+            "Strandurlaub",
+            "Rundreise"
+        ],
+        "39": [
+            "Rundreise"
+        ],
+        "40": [
+            "Strandurlaub"
+        ],
+        "41": [
+            "Strandurlaub"
+        ],
+        "42": [
+            "St\u00e4dtereise"
+        ],
+        "43": [
+            "St\u00e4dtereise"
+        ],
+        "44": [
+            "St\u00e4dtereise"
+        ],
+        "45": [
+            "Kultur"
+        ],
+        "46": [
+            "Strandurlaub"
+        ],
+        "47": [
+            "Rundreise"
+        ],
+        "48": [
+            "St\u00e4dtereise"
+        ],
+        "49": [
+            "Rundreise"
+        ],
+        "50": [
+            "St\u00e4dtereise"
+        ],
+        "51": [
+            "St\u00e4dtereise"
+        ],
+        "52": [
+            "Rundreise"
+        ],
+        "53": [
+            "St\u00e4dtereise"
+        ],
+        "54": [
+            "St\u00e4dtereise"
+        ],
+        "55": [
+            "St\u00e4dtereise"
+        ],
+        "56": [
+            "St\u00e4dtereise"
+        ],
+        "57": [
+            "Strandurlaub",
+            "Rundreise"
+        ],
+        "58": [
+            "St\u00e4dtereise"
+        ],
+        "59": [
+            "St\u00e4dtereise"
+        ],
+        "60": [
+            "St\u00e4dtereise"
+        ],
+        "61": [
+            "Strandurlaub"
+        ],
+        "62": [
+            "St\u00e4dtereise"
+        ]
+    },
+    "Interessen": {
+        "0": [
+            "Geschichte",
+            "Natur"
+        ],
+        "1": [
+            "Natur",
+            "Kultur"
+        ],
+        "2": [
+            "Kultur",
+            "Natur",
+            "Kulinarik"
+        ],
+        "3": [
+            "Kultur",
+            "Party"
+        ],
+        "4": [
+            "Geschichte",
+            "Kultur",
+            "Kulinarik"
+        ],
+        "5": [
+            "Natur",
+            "Party"
+        ],
+        "6": [
+            "Natur",
+            "Wellness"
+        ],
+        "7": [
+            "Kultur",
+            "Party"
+        ],
+        "8": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "9": [
+            "Kultur",
+            "Natur",
+            "Kulinarik"
+        ],
+        "10": [
+            "Natur",
+            "Kultur"
+        ],
+        "11": [
+            "Natur",
+            "Party"
+        ],
+        "12": [
+            "Natur",
+            "Kultur"
+        ],
+        "13": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "14": [
+            "Kultur",
+            "Party"
+        ],
+        "15": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "16": [
+            "Natur",
+            "Abenteuer"
+        ],
+        "17": [
+            "Kultur",
+            "Natur",
+            "Kulinarik"
+        ],
+        "18": [
+            "Natur",
+            "Party",
+            "Kultur"
+        ],
+        "19": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "20": [
+            "Natur",
+            "Kultur"
+        ],
+        "21": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "22": [
+            "Natur",
+            "Party"
+        ],
+        "23": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "24": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "25": [
+            "Natur",
+            "Kultur"
+        ],
+        "26": [
+            "Geschichte",
+            "Kultur",
+            "Kulinarik"
+        ],
+        "27": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "28": [
+            "Natur",
+            "Party"
+        ],
+        "29": [
+            "Kultur",
+            "Geschichte",
+            "Natur",
+            "Kulinarik"
+        ],
+        "30": [
+            "Kultur",
+            "Party"
+        ],
+        "31": [
+            "Natur",
+            "Wellness"
+        ],
+        "32": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "33": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "34": [
+            "Geschichte",
+            "Kultur",
+            "Kulinarik"
+        ],
+        "35": [
+            "Natur",
+            "Abenteuer",
+            "Geschichte"
+        ],
+        "36": [
+            "Natur",
+            "Party"
+        ],
+        "37": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "38": [
+            "Geschichte",
+            "Kultur",
+            "Natur"
+        ],
+        "39": [
+            "Kultur"
+        ],
+        "40": [
+            "Natur",
+            "Party"
+        ],
+        "41": [
+            "Natur",
+            "Party"
+        ],
+        "42": [
+            "Geschichte",
+            "Kultur",
+            "Kulinarik"
+        ],
+        "43": [
+            "Kultur",
+            "Natur"
+        ],
+        "44": [
+            "Kultur",
+            "Natur"
+        ],
+        "45": [
+            "Kultur",
+            "Party"
+        ],
+        "46": [
+            "Natur",
+            "Kultur"
+        ],
+        "47": [
+            "Natur",
+            "Geschichte",
+            "Kultur"
+        ],
+        "48": [
+            "Kultur",
+            "Natur"
+        ],
+        "49": [
+            "Natur"
+        ],
+        "50": [
+            "Kultur",
+            "Party"
+        ],
+        "51": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "52": [
+            "Natur",
+            "Wellness"
+        ],
+        "53": [
+            "Natur",
+            "Party"
+        ],
+        "54": [
+            "Kultur",
+            "Party"
+        ],
+        "55": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "56": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "57": [
+            "Kultur",
+            "Natur",
+            "Kulinarik"
+        ],
+        "58": [
+            "Natur",
+            "Kultur"
+        ],
+        "59": [
+            "Geschichte",
+            "Kultur"
+        ],
+        "60": [
+            "Natur",
+            "Kultur"
+        ],
+        "61": [
+            "Natur"
+        ],
+        "62": [
+            "Geschichte",
+            "Kultur"
+        ]
+    },
+    "Preisniveau": {
+        "0": "Teurer als Deutschland",
+        "1": "G\u00fcnstiger als Deutschland",
+        "2": "Teurer als Deutschland",
+        "3": "Teurer als Deutschland",
+        "4": "Teurer als Deutschland",
+        "5": "G\u00fcnstiger als Deutschland",
+        "6": "Durchschnitt Deutschland",
+        "7": "G\u00fcnstiger als Deutschland",
+        "8": "Teurer als Deutschland",
+        "9": "Teurer als Deutschland",
+        "10": "G\u00fcnstiger als Deutschland",
+        "11": "G\u00fcnstiger als Deutschland",
+        "12": "G\u00fcnstiger als Deutschland",
+        "13": "Teurer als Deutschland",
+        "14": "Teurer als Deutschland",
+        "15": "G\u00fcnstiger als Deutschland",
+        "16": "Teurer als Deutschland",
+        "17": "G\u00fcnstiger als Deutschland",
+        "18": "G\u00fcnstiger als Deutschland",
+        "19": "G\u00fcnstiger als Deutschland",
+        "20": "G\u00fcnstiger als Deutschland",
+        "21": "G\u00fcnstiger als Deutschland",
+        "22": "G\u00fcnstiger als Deutschland",
+        "23": "G\u00fcnstiger als Deutschland",
+        "24": "Teurer als Deutschland",
+        "25": "Teurer als Deutschland",
+        "26": "G\u00fcnstiger als Deutschland",
+        "27": "Teurer als Deutschland",
+        "28": "Teurer als Deutschland",
+        "29": "G\u00fcnstiger als Deutschland",
+        "30": "Teurer als Deutschland",
+        "31": "Durchschnitt Deutschland",
+        "32": "G\u00fcnstiger als Deutschland",
+        "33": "Teurer als Deutschland",
+        "34": "Teurer als Deutschland",
+        "35": "Teurer als Deutschland",
+        "36": "G\u00fcnstiger als Deutschland",
+        "37": "G\u00fcnstiger als Deutschland",
+        "38": "G\u00fcnstiger als Deutschland",
+        "39": "G\u00fcnstiger als Deutschland",
+        "40": "Teurer als Deutschland",
+        "41": "G\u00fcnstiger als Deutschland",
+        "42": "Teurer als Deutschland",
+        "43": "Teurer als Deutschland",
+        "44": "Teurer als Deutschland",
+        "45": "G\u00fcnstiger als Deutschland",
+        "46": "Teurer als Deutschland",
+        "47": "G\u00fcnstiger als Deutschland",
+        "48": "Teurer als Deutschland",
+        "49": "G\u00fcnstiger als Deutschland",
+        "50": "Teurer als Deutschland",
+        "51": "Teurer als Deutschland",
+        "52": "Teurer als Deutschland",
+        "53": "Teurer als Deutschland",
+        "54": "G\u00fcnstiger als Deutschland",
+        "55": "Teurer als Deutschland",
+        "56": "Teurer als Deutschland",
+        "57": "Teurer als Deutschland",
+        "58": "Teurer als Deutschland",
+        "59": "Teurer als Deutschland",
+        "60": "Teurer als Deutschland",
+        "61": "Teurer als Deutschland",
+        "62": "Teurer als Deutschland"
+    },
+    "Beste Monate zum Reisen": {
+        "0": [
+            "April",
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September",
+            "Oktober"
+        ],
+        "1": [
+            "M\u00e4rz",
+            "April",
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "2": [
+            "April",
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "3": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August"
+        ],
+        "4": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "5": [
+            "April",
+            "Mai",
+            "Juni"
+        ],
+        "6": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "7": [
+            "Dezember",
+            "Januar",
+            "Februar",
+            "M\u00e4rz",
+            "April"
+        ],
+        "8": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August"
+        ],
+        "9": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "10": [
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "11": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September",
+            "Oktober"
+        ],
+        "12": [
+            "Oktober",
+            "November",
+            "Dezember",
+            "Januar",
+            "Februar",
+            "M\u00e4rz",
+            "April",
+            "Mai"
+        ],
+        "13": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August"
+        ],
+        "14": [
+            "Januar",
+            "Februar",
+            "M\u00e4rz",
+            "April",
+            "November",
+            "Dezember"
+        ],
+        "15": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August"
+        ],
+        "16": [
+            "Oktober",
+            "November",
+            "Dezember",
+            "Januar",
+            "Februar",
+            "M\u00e4rz",
+            "April",
+            "Mai"
+        ],
+        "17": [
+            "Januar",
+            "Februar",
+            "M\u00e4rz",
+            "Dezember"
+        ],
+        "18": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September",
+            "Oktober",
+            "November",
+            "April"
+        ],
+        "19": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "September",
+            "Oktober"
+        ],
+        "20": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "21": [
+            "April",
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September",
+            "Oktober"
+        ],
+        "22": [
+            "Januar",
+            "Februar",
+            "M\u00e4rz",
+            "Dezember"
+        ],
+        "23": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August"
+        ],
+        "24": [
+            "April",
+            "Mai",
+            "Juni"
+        ],
+        "25": [
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "26": [
+            "April",
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September",
+            "Oktober"
+        ],
+        "27": [
+            "Juni",
+            "Juli",
+            "August"
+        ],
+        "28": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "29": [
+            "M\u00e4rz",
+            "April",
+            "Mai",
+            "Juni",
+            "Juli",
+            "September",
+            "Oktober",
+            "November"
+        ],
+        "30": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "31": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "32": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "33": [
+            "April",
+            "Mai",
+            "Juni",
+            "Juli",
+            "August"
+        ],
+        "34": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "35": [
+            "Oktober",
+            "November",
+            "Dezember",
+            "Januar",
+            "Februar",
+            "M\u00e4rz",
+            "April"
+        ],
+        "36": [
+            "Januar",
+            "Februar",
+            "M\u00e4rz",
+            "April"
+        ],
+        "37": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "38": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "39": [
+            "Oktober",
+            "November",
+            "Dezember",
+            "Januar",
+            "Februar",
+            "M\u00e4rz",
+            "April"
+        ],
+        "40": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "41": [
+            "Januar",
+            "Februar",
+            "Dezember"
+        ],
+        "42": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "September"
+        ],
+        "43": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "44": [
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "45": [
+            "Dezember",
+            "Januar",
+            "Februar"
+        ],
+        "46": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September",
+            "Oktober"
+        ],
+        "47": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August"
+        ],
+        "48": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "49": [
+            "Juli",
+            "August",
+            "September",
+            "Oktober"
+        ],
+        "50": [
+            "Januar",
+            "Februar",
+            "M\u00e4rz",
+            "April"
+        ],
+        "51": [
+            "Juni",
+            "Juli",
+            "August"
+        ],
+        "52": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "53": [
+            "Oktober",
+            "November",
+            "Dezember",
+            "Januar"
+        ],
+        "54": [
+            "M\u00e4rz",
+            "April",
+            "Mai",
+            "September",
+            "Oktober",
+            "November"
+        ],
+        "55": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August"
+        ],
+        "56": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August"
+        ],
+        "57": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "58": [
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "59": [
+            "April",
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ],
+        "60": [
+            "Januar",
+            "Februar",
+            "M\u00e4rz",
+            "Oktober",
+            "November",
+            "Dezember"
+        ],
+        "61": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September",
+            "Oktober"
+        ],
+        "62": [
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September"
+        ]
+    },
+    "Unterkunft": {
+        "0": [
+            "Ferienhaus/Hotel/Hostel",
+            "Camping"
+        ],
+        "1": [
+            "Ferienhaus/Hotel/Hostel",
+            "Camping"
+        ],
+        "2": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "3": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "4": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "5": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "6": [
+            "Ferienhaus/Hotel/Hostel",
+            "Camping"
+        ],
+        "7": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "8": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "9": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "10": [
+            "Ferienhaus/Hotel/Hostel",
+            "Camping"
+        ],
+        "11": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "12": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "13": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "14": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "15": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "16": [
+            "Ferienhaus/Hotel/Hostel",
+            "Camping"
+        ],
+        "17": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "18": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "19": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "20": [
+            "Ferienhaus/Hotel/Hostel",
+            "Camping"
+        ],
+        "21": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "22": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "23": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "24": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "25": [
+            "Ferienhaus/Hotel/Hostel",
+            "Camping"
+        ],
+        "26": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "27": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "28": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "29": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "30": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "31": [
+            "Ferienhaus/Hotel/Hostel",
+            "Camping"
+        ],
+        "32": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "33": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "34": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "35": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "36": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "37": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "38": [
+            "Ferienhaus/Hotel/Hostel",
+            "Camping"
+        ],
+        "39": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "40": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "41": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "42": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "43": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "44": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "45": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "46": [
+            "Ferienhaus/Hotel/Hostel",
+            "Camping"
+        ],
+        "47": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "48": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "49": [
+            "Ferienhaus/Hotel/Hostel",
+            "Camping"
+        ],
+        "50": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "51": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "52": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "53": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "54": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "55": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "56": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "57": [
+            "Ferienhaus/Hotel/Hostel",
+            "Camping"
+        ],
+        "58": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "59": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "60": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "61": [
+            "Ferienhaus/Hotel/Hostel"
+        ],
+        "62": [
+            "Ferienhaus/Hotel/Hostel"
+        ]
+    }
+}

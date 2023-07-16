@@ -104,3 +104,5 @@ nlu:
     - Travel consultation
 
 - intent: inform
+
+- intent: GPT

@@ -27,4 +27,9 @@ rules:
   - slot_was_set:
     - requested_slot: null
   - action: action_get_destinations
+
+- rule: Conduct GPT Search
+  steps:
+  - intent: GPT
+  - action: action_conduct_GPT_search
   - action: action_reset_slots

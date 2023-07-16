@@ -10,10 +10,11 @@ intents:
   - bot_challenge
   - travel_guide
   - inform
+  - GPT
 
 responses:
   utter_greet:
-  - text: "Hey! I am your friendly travel guide. I can help you find the perfect destination for your next trip."
+  - text: "Welcome to the Travel Recommendation Chatbot! I'm here to help you find the perfect travel destination. Let's get started!"
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"
@@ -31,88 +32,141 @@ responses:
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
 
-  utter_ask_question_1:
-  - text: "Alright, let's start with your Travel Consultation. Price Question."
+  utter_ask_time:
+  - text: "To begin, when are you planning to go on vacation?"
     buttons: 
-    - title: "Cheap"
-      payload: '/inform{{"question_1":"Cheap"}}'
-    - title: "Expensive"
-      payload: '/inform{{"question_1":"Expensive"}}'
+    - title: "1. Quarter (January-March)"
+      payload: '/inform{{"time":"1. Quarter"}}'
+    - title: "2. Quarter (April-June)"
+      payload: '/inform{{"time":"2. Quarter"}}'
+    - title: "3. Quarter (July-September)"
+      payload: '/inform{{"time":"3. Quarter"}}'
+    - title: "4. Quarter (Oktober-Dezember)"
+      payload: '/inform{{"time":"4. Quarter"}}'
 
-  utter_ask_question_2:
-  - text: "Okay, i got that. Lets continue with Activity Question."
+  utter_ask_climate:
+  - text: "Thank you for the information. Noted your preference for {time}. \n Now, let's discuss the climate. What temperatures do you prefer?"
     buttons: 
-    - title: "Active"
-      payload: '/inform{{"question_2":"Active"}}'
-    - title: "Chill"
-      payload: '/inform{{"question_2":"Chill"}}'
+    - title: "Warm and sunny"
+      payload: '/inform{{"climate":"Warm and sunny"}}'
+    - title: "Cold Weather"
+      payload: '/inform{{"climate":"Cold Weather"}}'
   
-  utter_ask_question_3:
-  - text: "Okay, i got that. Lets continue with Climate Question."
+  utter_ask_activity:
+  - text: "Understood. You have a preference for {climate}. \n Next, let's explore what kind of vacations you enjoy. How would you like to spend your vacation?"
     buttons: 
-    - title: "Sunny and warm"
-      payload: '/inform{{"question_3":"Sunny"}}'
-    - title: "Colder climate"
-      payload: '/inform{{"question_3":"Cold"}}'
+    - title: "Relaxing on the beach"
+      payload: '/inform{{"activity":"Relaxing on the beach"}}'
+    - title: "Exploring a city"
+      payload: '/inform{{"activity":"Exploring a city"}}'
+    - title: "Experiencing adventures"
+      payload: '/inform{{"activity":"Experiencing adventures"}}'
+    - title: "Experiencing culture"
+      payload: '/inform{{"activity":"Experiencing culture"}}'
 
-  utter_ask_question_4:
-  - text: "Okay, i got that. Lets continue with Interest Question."
+  utter_ask_interest_1:
+  - text: "Got it! You're interested in {activity}. \n Now, let's discover your interests. Please select the category that appeals the most to you:"
     buttons: 
     - title: "History"
-      payload: '/inform{{"question_4":"History"}}'
+      payload: '/inform{{"interest_1":"History"}}'
+    - title: "Culture"
+      payload: '/inform{{"interest_1":"Culture"}}'
     - title: "Nature"
-      payload: '/inform{{"question_4":"Nature"}}'
+      payload: '/inform{{"interest_1":"Nature"}}'
     - title: "Party"
-      payload: '/inform{{"question_4":"Party"}}'
+      payload: '/inform{{"interest_1":"Party"}}'
+    - title: "Adventure"
+      payload: '/inform{{"interest_1":"Adventure"}}'
+    - title: "Wellness"
+      payload: '/inform{{"interest_1":"Wellness"}}'
+    - title: "Great food"
+      payload: '/inform{{"interest_1":"Great food"}}' 
 
-  utter_ask_question_5:
-  - text: "Okay, i got that. Lets continue with Duration Question."
+  utter_ask_interest_2:
+  - text: "Wonderful! Your are primarily interested in {interest_1}. \n Lets widen your horizon: From the same list, Please select the category that appeals the second most to you:"
     buttons: 
-    - title: "short (> 1 week)"
-      payload: '/inform{{"question_5":"short"}}'
-    - title: "intermediate (1-2 weeks))"
-      payload: '/inform{{"question_5":"intermediate"}}'
-    - title: "long (> 2 weeks)"
-      payload: '/inform{{"question_5":"long"}}'
+    - title: "History"
+      payload: '/inform{{"interest_2":"History"}}'
+    - title: "Culture"
+      payload: '/inform{{"interest_2":"Culture"}}'
+    - title: "Nature"
+      payload: '/inform{{"interest_2":"Nature"}}'
+    - title: "Party"
+      payload: '/inform{{"interest_2":"Party"}}'
+    - title: "Adventure"
+      payload: '/inform{{"interest_2":"Adventure"}}'
+    - title: "Wellness"
+      payload: '/inform{{"interest_2":"Wellness"}}'
+    - title: "Great food"
+      payload: '/inform{{"interest_2":"Great food"}}'
+
+  utter_ask_budget:
+  - text: "Wonderful! Your are primarily interested in {interest_1}, but also enjoy {interest_2}. \n To further narrow down the options, could you let me know if your budget per day is lower,equal to or higher than your usual budget in Germany?"
+    buttons: 
+    - title: "Lower"
+      payload: '/inform{{"budget":"Lower"}}'
+    - title: "Equal"
+      payload: '/inform{{"budget":"Equal"}}'
+    - title: "Higher"
+      payload: '/inform{{"budget":"Higher"}}'
+
+  utter_ask_housing:
+  - text: "Noted that your budget compared to Germany per day is {budget}. \n Finally, let's discuss your housing preference. Where would you like to stay?"
+    buttons: 
+    - title: "Camping"
+      payload: '/inform{{"housing":"Camping"}}'
+    - title: "Hotels, Hostels or Vacation houses"
+      payload: '/inform{{"housing":"Hotel/Hostel/Vacation house"}}'
   
-  utter_ask_use_GPT:
-  - text: "Thanks for your input. I will now look for the best travel destination for you.\n Should i use my internal database or should I consult GPT-3 for this?"
-    buttons: 
-    - title: "Use GPT"
-      payload: '/inform{{"use_GPT":"Yes"}}'
-    - title: "Use internal database"
-      payload: '/inform{{"use_GPT":"No"}}'
+  # utter_ask_use_GPT:
+  # - text: "Thanks for your input. I will now look for the best travel destination for you.\n Should i use my internal database or should I consult GPT-3 for this?"
+  #   buttons: 
+  #   - title: "Use GPT"
+  #     payload: '/inform{{"use_GPT":"Yes"}}'
+  #   - title: "Use internal database"
+  #     payload: '/inform{{"use_GPT":"No"}}'
 
 actions:
 - action_get_destinations
+- action_conduct_GPT_search
 - action_reset_slots
 
 slots:
-  question_1:
+  time:
     type: any
     mappings:
       - type: from_entity
-        entity: question_1
-  question_2:
+        entity: time
+  climate:
     type: any
     mappings:
       - type: from_entity
-        entity: question_2
-  question_3:
+        entity: climate
+  activity:
     type: any
     mappings:
       - type: from_entity
-        entity: question_3
-  question_4:
+        entity: activity
+  interest_1:
     type: any
     mappings:
       - type: from_entity
-        entity: question_4
-  question_5:
+        entity: interest_1
+  interest_2:
     type: any
     mappings:
       - type: from_entity
-        entity: question_5
+        entity: interest_2
+  budget:
+    type: any
+    mappings:
+      - type: from_entity
+        entity: budget
+  housing:
+    type: any
+    mappings:
+      - type: from_entity
+        entity: housing
   use_GPT:
     type: any
     mappings:
@@ -120,22 +174,25 @@ slots:
         entity: use_GPT
 
 entities:
-  - question_1
-  - question_2
-  - question_3
-  - question_4
-  - question_5
+  - time
+  - climate
+  - activity
+  - interest_1
+  - interest_2
+  - budget
+  - housing
   - use_GPT
 
 forms:
   travel-guide:
     required_slots:
-      - question_1
-      - question_2
-      - question_3
-      - question_4
-      - question_5
-      - use_GPT
+      - time
+      - climate
+      - activity
+      - interest_1
+      - interest_2
+      - budget
+      - housing
 
 session_config:
   session_expiration_time: 60
